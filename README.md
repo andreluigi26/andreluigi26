@@ -56,10 +56,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreluigi26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluigi26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-</div>
 
 <br/>
 
