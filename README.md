@@ -3,8 +3,6 @@
   <!-- Banner de ondas animadas no topo -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&animation=fadeIn" alt="header"/>
 
-  <!-- Foto/Avatar com borda -->
-  <img src="https://avatars.githubusercontent.com/u/andreluigi26" width="110" style="border-radius: 50%" alt="Avatar"/>
 
   <br/>
 
