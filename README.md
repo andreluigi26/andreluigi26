@@ -1,10 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+Andr%C3%A9+Luigi+%F0%9F%91%8B;Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+c%C3%B3digo" alt="Typing SVG" />
-</div>
 
-<br/>
+  <!-- Banner de ondas animadas no topo -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&animation=fadeIn" alt="header"/>
 
-<div align="center">
+  <!-- Foto/Avatar com borda -->
+  <img src="https://avatars.githubusercontent.com/u/andreluigi26" width="110" style="border-radius: 50%" alt="Avatar"/>
+
+  <br/>
+
+  <!-- Saudação fixa -->
+  <h1>Olá, eu sou André Luigi 👋</h1>
+  <h3>💜 Desenvolvedor Fullstack em formação</h3>
+
+  <!-- Texto animado -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=45&lines=Analista+NOC+Jr+%7C+Telecom+%F0%9F%93%A1;Aprendendo+React+%2B+Node.js+%F0%9F%9A%80;Focado+em+me+tornar+Fullstack+Dev+%F0%9F%8E%AF;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <!-- Badges de contato -->
   <a href="https://www.linkedin.com/in/andreluigidicarlo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -14,6 +27,12 @@
   <a href="https://andreluigidev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+
+  <br/><br/>
+
+  <!-- Banner de ondas animadas separador -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=60&section=footer&animation=fadeIn" alt="divider"/>
+
 </div>
 
 ---
@@ -39,9 +58,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreluigi26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreluigi26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluigi26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluigi26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <br/>
