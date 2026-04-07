@@ -1,21 +1,59 @@
-# 💫 About Me:
-Apenas um novato que gosta de programar.<br>Estudo programação e estou aprimorando minhas habilidades em busca de uma oportunidade de entrar na área.<br>Aprendendo Python.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+Andr%C3%A9+Luigi+%F0%9F%91%8B;Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+c%C3%B3digo" alt="Typing SVG" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_luigi99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-luigi-di-carlo) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aluigi99) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/a_luigi26) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andreluigi26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andreluigi26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluigi26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andreluigi26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://www.linkedin.com/in/andreluigidicarlo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:andre.luigi26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://andreluigidev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andreluigi26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ Sobre mim
+
+- 📡 Trabalho com **Telecomunicações** como **Analista NOC Jr**
+- 🚀 Em transição de carreira com foco total em me tornar **Desenvolvedor Fullstack**
+- 💻 Desenvolvendo projetos e aprimorando habilidades em **JavaScript, React e Node.js**
+- 🎯 Objetivo: construir soluções completas, do front ao back-end
+- 📫 Me chame em: **andre.luigi26@gmail.com**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github&perline=5" alt="Tech Stack" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreluigi26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluigi26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=andreluigi26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=andreluigi26&color=6C63FF&style=flat-square&label=Visitantes+do+perfil" alt="Profile Views"/>
+  <br/><br/>
+  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs</i>
+</div>
