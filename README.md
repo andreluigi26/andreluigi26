@@ -45,7 +45,21 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## � Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🔐 [cadastrologin](https://github.com/andreluigi26/cadastrologin) | Sistema de cadastro e login de usuários | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🗂️ [projeto-cadastro-nodejs](https://github.com/andreluigi26/projeto-cadastro-nodejs) | Cadastro de pessoas com API REST | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| 🎲 [projeto-sorteio](https://github.com/andreluigi26/projeto-sorteio) | App de sorteio/rifa com validação de duplicidade | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+
+</div>
+
+---
+
+## �🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github&perline=5" alt="Tech Stack" />
